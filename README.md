@@ -17,5 +17,9 @@ Set of tasks:
   * Footnotes or Endnotes (if required)
   * Bibliography/References (following the specified citation style)
 * Add placeholder text for the title, author's name, university information, abstract, chapter headings, and sample figures and tables to demonstrate how the styles should be applied.
+* Add reference list library that  is included in your document.
+* Automate figure and table numbering is enable. Document has cross reference option available.
+
+**Remember to complete this phase you should finish thesis introduction part and problem overview part on 60% (approximate 10 pages).**
 
 Submit the final master thesis template to GitHub repository.
